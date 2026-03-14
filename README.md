@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **SecureUS**
 
-- 🌱 I’m currently learning **React, Node.js, Javascript**
+- 🌱 I’m currently learning **React, Node.js, Javassript**
 
 - 💬 Ask me about **MERN**
 
